@@ -94,3 +94,10 @@ def main():
 
 #RUN MAIN        
 main()
+st.markdown("""
+<hr style="margin-top: 50px;">
+<div style='text-align: center; color: gray; font-size: 14px;'>
+    © 2025 Bhavana Vuggina & team | <a href="https://bhavanaportfolio.in/" target="_blank">Portfolio</a> | <a href="https://github.com/bhavana04-web/fake-review-detector" target="_blank">GitHub Repo</a>
+</div>
+""", unsafe_allow_html=True)
+
